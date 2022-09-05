@@ -20,9 +20,10 @@
 
 ## 更新记录
 ![](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/LabelConvert/v1.0.png)
+
 |版本|日期|功能|
-|---|---|---|1. 支持XML转JSON、XML转TXT、TXT转XML、JSON转XML<br>2. XML&JSON类别替换<br>3. XML&JSON类别删除|
-|v1.0|2022/09/06||
+|---|---|---|
+|v1.0|2022/09/06|1. 支持XML转JSON、XML转TXT、TXT转XML、JSON转XML<br/>2. XML&JSON类别替换<br/>3. XML&JSON类别删除|
 ## 我维护的其他项目
 - [**图片数据不够？我做了一款图像增强软件**](https://github.com/Fafa-DL/Image-Augmentation)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
