@@ -16,7 +16,7 @@
 ## 资料
 |视频教程|公众号获取下载|Release下载|人工智能技术探讨群|
 |---|---|---|---|
-|[点我查看教程]|啥都会一点的研究生->资源合集->序号00|[点我下载](https://github.com/Fafa-DL/LabelConvert/archive/refs/tags/v1.0.zip)|[QQ群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[QQ群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
+|[点我查看教程](https://www.bilibili.com/video/BV1aP4y1Z7f3)|啥都会一点的研究生->资源合集->序号00|[点我下载](https://github.com/Fafa-DL/LabelConvert/archive/refs/tags/v1.0.zip)|[QQ群：78174903](https://jq.qq.com/?_wv=1027&k=lY5KVICA)<br/>[QQ群：584723646](https://jq.qq.com/?_wv=1027&k=bakez5Yz)|
 
 ## 更新记录
 ![](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/LabelConvert/v1.0.png)
